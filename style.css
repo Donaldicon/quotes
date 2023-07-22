@@ -66,6 +66,14 @@ button:hover{
   }
 
   #heartbreak{
-    margin-top: 10px;
+    margin-top: 30px;
+  }
+
+  button{
+    margin-bottom: 0;
+  }
+
+  .quotes-right{
+    margin-top: 70px;
   }
 }
