@@ -9,7 +9,7 @@ buttonEl.addEventListener("click", () => {
     "~Benjamin Franklin" : '"Whatever is begun in anger ends in shame."',
     "~Ralph Waldo Emerson" : '"For every minute you remain angry, you give up sixty seconds of peace of mind."',
     "~Confucius" : '"When anger rises, think of the consequences."',
-    "~Douglas Horton" : '"While seeking revenge, dig two graves - one for yourself."',
+    "~Confucius" : '"While seeking revenge, dig two graves - one for yourself."',
     "~Aristotle" : '"Anybody can become angry - that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way - that is not within everybody’s power and is not easy."',
     "~Mark Twain" : '"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."',
     "~Dylan Thomas" : '"When one burns one’s bridges, what a very nice fire it makes."',
